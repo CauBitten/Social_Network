@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Rede_Social",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Rede_Social::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Rede_Social-Debug-803330c1372df3648d30.json",
+					"name" : "Rede_Social",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Users/cauaf/OneDrive/Documentos/Cau\u00e3/Computer Science/3. JettBrains IDE's/CLionProjects/C Algorithm and Data Structures/Rede Social/cmake-build-debug",
+		"source" : "D:/Users/cauaf/OneDrive/Documentos/Cau\u00e3/Computer Science/3. JettBrains IDE's/CLionProjects/C Algorithm and Data Structures/Rede Social"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
